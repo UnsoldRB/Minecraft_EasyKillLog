@@ -1,0 +1,4 @@
+ActionBarに倒したEntityの名前を表示するmodです。
+
+PetsRetreatが入っていれば、
+撤退のトーテムが適用されているmobが倒した時にも表示されます。
